@@ -9,10 +9,8 @@ Bob est pris dans la fameuse tempête de neige du siecle.
 
 Malgré l'absence de vision, il vit un indice au sol.
 
-/ Part bridge
 Il trouve des indices sous un pont.
-
-A partir de ces indices il arrive devant un restaurant
+A partir de ces indices il arrive devant un parc
 
 Et c'est ainsi que cet étrange personnage à remarqué la présence d'une femme, qui mangeait sur un banc, à côté de l'eau.
 

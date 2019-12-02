@@ -5,7 +5,9 @@ S'il était si en colère, si enervé suite à cette acte, (que nous pouvons qua
 Bob est pris dans la fameuse tempête de neige du siecle.
 Malgré l'absence de vision, il vit un indice au sol.
 
+/ Part bridge
 Il trouve des indices sous un pont.
 A partir de ces indices il arrive devant un restaurant
+
 Et c'est ainsi que cet étrange personnage à remarqué la présence d'une femme, qui mangeait sur un banc, à côté de l'eau.
 En s'approchant, la femme prit un boomerang pour montrer une direction : celle du chapeau poussé par le vent.

@@ -1,1 +1,1 @@
-@todo faire le resume
+Un aventurier perd un objet de valeur. Mal en point, il se décide de partir à la recherche de son objet fétiche. Ce dernier va l'emmener à parcourir et à chercher dans les endroits les plus innattendus.
